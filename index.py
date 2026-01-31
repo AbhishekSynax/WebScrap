@@ -19,7 +19,7 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = '8507762746:AAF56ljCfPmmkbnb6qzsmM8urilaqADZKCM'  # <=== put your bot token 
+BOT_TOKEN = '8507762746:AAGSV_Erszej1eZnj5S3MNemfvcCxETX-3k'  # <=== put your bot token 
 REQUIRED_CHANNEL = -1002613561003  # your channel ID
 ADMIN_USER_ID = 7998441787  # your Telegram ID
 
