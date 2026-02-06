@@ -19,9 +19,9 @@ from telegram.ext import (
     filters,
 )
 
-BOT_TOKEN = '8507762746:AAEURLVeXEFujLoXcVTql1HWtIG58GDxKJg'  # <=== put your bot token 
+BOT_TOKEN = '8538798053:AAGIQT6fFNekXhB_9U7mJXghXFm3BNzLnws'  # <=== put your bot token 
 REQUIRED_CHANNEL = -1002613561003  # your channel ID
-ADMIN_USER_ID = 7998441787  # your Telegram ID
+ADMIN_USER_ID = 6068463116  # your Telegram ID
 
 MAX_CONCURRENT = 5  # safe for low RAM
 ZIP_PART_SIZE = 1 * 1024 * 1024  # 1MB per zip chunk
